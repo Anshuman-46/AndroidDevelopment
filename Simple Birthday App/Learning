@@ -1,0 +1,5 @@
+Simple birthday app made using KOTLIN programming language in Android studio.
+In this app I have learned how to ->
+Learnt constraint layout, how component tree is important.
+TextView - fontfamily,size, color and more important when to use specific property like when to select bold,sans-serif like things.
+ImageView - wrap_content, how to adjust image etc...
